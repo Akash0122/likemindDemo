@@ -1,0 +1,16 @@
+1:Import Java Code On Any Compiler like Intellij and STS.
+2:Download All maven librabry (mostly compile does automatically)
+3:Compile And Run code from DemoApplication file 
+4:After Successful run , execute commands
+
+These Are Commands
+
+ "add_user" = for Add user in system.
+
+ "add_topic" = add topic by admin for add  a topic in system.
+  "subscribe_topic"= using this command user can subscribe a topic.
+
+  "add_message"= add message or register a message suing this command
+ "process_message"= process all the msg using this command
+
+   "end"= this command for end the program.
